@@ -6,7 +6,7 @@
 - 💻 Desenvolvedor Full Stack com foco principal em Back-end (PHP & Laravel)
 - 🛠️ Sólidos conhecimentos em lógica com Python e JavaScript
 - 🎨 Experiência em Front-end estrutural com HTML, CSS e Bootstrap
-- 🎓 Formado em Desenvolvimente de Sistema pelo SENAI/SESI
+- 🎓 Formado em Desenvolvimento de Sistemas pelo SENAI/SESI
 - 📫 Sinta-se à vontade para explorar meus repositórios
 
 ---
