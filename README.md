@@ -1,6 +1,6 @@
 # Olá, mundo! 👋
 
-<img src="https://camo.githubusercontent.com/1156e2410818f672e3b31d0ed43eb7a5e3b535968c4d093be33f04ee138045c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436174735f43616d70666972652d6f72616e6765" align="right" alt="Gatinhos na fogueira">
+<img src="[https://camo.githubusercontent.com/1156e2410818f672e3b31d0ed43eb7a5e3b535968c4d093be33f04ee138045c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436174735f43616d70666972652d6f72616e6765](https://camo.githubusercontent.com/1156e2410818f672e3b31d0ed43eb7a5e3b535968c4d093be33f04ee138045c7/68747470733a2f2f696d6775722e636f6d2f437a475778444b2e676966)" align="right" alt="Gatinhos na fogueira">
 
 - 👋 Oi, eu sou Eric
 - 💻 Desenvolvedor Full Stack com foco principal em Back-end (PHP & Laravel)
