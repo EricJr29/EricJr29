@@ -26,4 +26,4 @@
 
 ## Currículo e Contato
 
-• [📄 Visualizar/Baixar Currículo PDF](./curriculo.pdf) • [💼 LinkedIn](https://linkedin.com/in/eric-junior-5483b83a0/)
+• [📄 Baixar Currículo](https://raw.githubusercontent.com/EricJr29/EricJr29/main/curriculo.pdf) • [💼 LinkedIn](https://linkedin.com/in/eric-junior-5483b83a0/)
