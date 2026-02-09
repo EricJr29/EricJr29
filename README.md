@@ -26,4 +26,4 @@
 
 ## Currículo e Contato
 
-• <a href="./curriculo.pdf" download="Curriculo_Eric.pdf">📄 Baixar meu Currículo em PDF</a>  • [💼 LinkedIn](https://linkedin.com/in/eric-junior-5483b83a0/)
+• [📄 Visualizar/Baixar Currículo PDF](./curriculo.pdf) • [💼 LinkedIn](https://linkedin.com/in/eric-junior-5483b83a0/)
